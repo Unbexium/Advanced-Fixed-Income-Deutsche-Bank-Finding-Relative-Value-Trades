@@ -1,4 +1,5 @@
 
+# Chat GPT did it, and it is awful, don't read it, I will do it again
 
 # Advanced Fixed Income Analysis - Deutsche Bank: Finding Relative Value Trades
 
